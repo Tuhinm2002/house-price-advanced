@@ -1,2 +1,2 @@
 # house-price-advanced
-Kaggle competition 36 % Leaderboard
+Kaggle competition in the top 36 % Leaderboard
